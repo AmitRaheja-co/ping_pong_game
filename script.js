@@ -135,7 +135,7 @@ var curr = setInterval(() => {
         }
         chk1 = 1;
     }
-}, 25);
+}, 18);
 
 
 // Boundries of Ball
